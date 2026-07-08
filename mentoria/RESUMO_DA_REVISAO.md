@@ -6,6 +6,8 @@
 
 Todas as alterações foram inseridas como **marcas de revisão (controle de alterações / _tracked changes_)** atribuídas a **Fábio Portela**. Nada foi alterado de forma definitiva: ao abrir o arquivo no Word ou no LibreOffice, é possível **aceitar ou rejeitar** cada mudança individualmente. Rejeitar todas as marcas reproduz exatamente o texto original.
 
+> **Atualização (2ª rodada):** as incorporações foram **aprofundadas** — cada obra passou a ser apresentada em seu argumento central e posta em **diálogo concreto** com os demais autores, explicitando sua contribuição para o projeto de tese. Além disso, as entradas bibliográficas foram **formatadas no mesmo padrão das demais**: fonte **Arial 12** e **destaque em negrito** conforme a ABNT (título da obra nos livros, teses e documentos; nome do periódico nos artigos).
+
 ## Panorama das alterações
 
 | Tipo | Quantidade |
@@ -17,6 +19,11 @@ Todas as alterações foram inseridas como **marcas de revisão (controle de alt
 | Referências da lista da orientadora incorporadas ao texto **e** à bibliografia | 32 |
 
 > As 30 novas entradas + as 2 já presentes na seção 8 (Bullard, *Environment and morality*; CNJ, *Protocolo para julgamento com perspectiva racial*) totalizam as **32 referências** recomendadas, todas agora citadas no corpo do texto e listadas na bibliografia final.
+
+## Formatação das referências (padrão do documento)
+
+- Todas as novas entradas em **Arial 12** (`sz 24`), com recuo e justificação idênticos aos das demais.
+- **Destaque em negrito conforme ABNT NBR 6023:** o elemento de destaque é o **título da obra** em livros, teses, relatórios e documentos; e o **nome do periódico** em artigos de revista (ex.: *Journal of Business Ethics*, *Revista Jurídica da Amazônia*).
 
 ## Onde cada referência foi incorporada (nos debates dos autores)
 
