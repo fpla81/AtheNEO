@@ -66,3 +66,10 @@ As correções foram deliberadamente **conservadoras**, restritas a erros claros
 1. **Referências pesquisadas online** para garantir precisão da incorporação e correção das citações. Notavelmente, a referência de **Pastor et al. (2006)** foi corrigida para a fonte real (*In the wake of the storm: environment, disaster, and race after Katrina*. Russell Sage Foundation), pois a citação da lista original apresentava dados trocados.
 2. As entradas bibliográficas seguem o **mesmo estilo ABNT** do documento, com "Disponível em" e "Acesso em" quando pertinente.
 3. Nenhuma referência ao autor **Fábio Roberto** foi incluída na lista de incorporação (ele é o autor da tese, não das obras recomendadas). A entrada já existente de sua dissertação de mestrado (SANTOS, Fábio Roberto, 2019) foi preservada.
+
+## 3ª rodada: 133 referências na Bibliografia a Pesquisar (seção 9)
+
+- **133 novas referências** incluídas na seção 9 (bibliografia adicional), em ordem alfabética junto com as 4 que já estavam lá (total: 137), como marcas de revisão de **Fábio Portela**, em Arial 12 e com o destaque em negrito da ABNT (título em livros e documentos; periódico em artigos).
+- As referências vêm da lista `reports/Referências complementares para a tese.md`, que traz para cada obra a relação com a tese e o link de verificação. Ela cobre 10 eixos, incluindo **contrapontos teóricos**.
+- **Todas as 133 obras tiveram a existência confirmada em fonte online.** Em **71** delas, porém, algum dado (edição, ano, subtítulo, páginas, DOI, tradutor) diverge entre as fontes ou foi confirmado só por fonte secundária. Cada uma dessas 71 entradas tem um **comentário do Word** que diz o que conferir antes da versão final. As outras 62 estão com todos os dados conferidos.
+- Correção técnica: removi marcas de inserção duplicadas que a 2ª rodada havia deixado em 30 entradas da seção 8. O texto não mudou; só os identificadores internos ficaram únicos.
